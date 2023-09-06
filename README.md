@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Je suis Xeush0flex du Senegal<br><br>- 🔭Je suis étudiant en Droit Maritime<br>- 📚Codeur du Dimanche<br>- ⚡Et fumeur de clopes niveau expert😁</p>
+<p align="left">Je suis Xeush0flex du Senegal<br><br>- 🔭Je suis étudiant en Droit Maritime<br> <br>- 📚Codeur du Dimanche<br> <br>- ⚡Et fumeur de clopes niveau expert😁</p>
 
 ###
 
